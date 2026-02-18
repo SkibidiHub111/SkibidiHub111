@@ -14,7 +14,7 @@
 
 <h2 align="center">About Me</h2>
 
-Baor skid
+true skidder
 
 ---
 
